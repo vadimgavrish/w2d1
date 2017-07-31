@@ -1,0 +1,14 @@
+{
+  "name": "httprequest",
+  "version": "1.0.0",
+  "description": "http request assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vadim gavrish",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
